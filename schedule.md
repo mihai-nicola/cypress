@@ -14,6 +14,30 @@ choose an empty slot and let <a id="contact" href="mailto:{{
 site.email }}">{{ site.organizer }}</a> know. If you're rescheduling, please
 find someone willing to take your place first.
 
+# Spring 2026
+
+The theme this semester is "foundations"---we're reading papers that are at least ten years old.
+
+| Date       | Speaker            | Topic                                                                               |
+| ---------- | ------------------ | ----------------------------------------------------------------------------------- |
+| 2026-01-29 | | |
+| 2026-02-05 | | |
+| 2026-02-12 | | |
+| 2026-02-19 | Sachi | |
+| 2026-02-26 | Eric | |
+| 2026-03-05 | | |
+| 2026-03-12 | | |
+| 2026-03-19 | **SPRING BREAK** | |
+| 2026-03-26 | | |
+| 2026-04-02 | Bethel | |
+| 2026-04-09 | Mihai | |
+| 2026-04-16 | | |
+| 2026-04-23 | | |
+| 2026-04-30 | | |
+| 2026-05-07 | | |
+
+# Fall 2025
+
 | Date       | Speaker            | Topic                                                                               |
 | ---------- | ------------------ | ----------------------------------------------------------------------------------- |
 | 2025-09-11 | | |
